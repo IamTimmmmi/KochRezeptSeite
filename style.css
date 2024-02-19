@@ -20,8 +20,13 @@ th{
   border: 1px solid black;
 }
 
+tr {
+	padding-top: 10px;
+}
+
 button {
   background-color: white;
   color: black;
   border: 2px solid #04AA6D; /* Green */
 }
+
